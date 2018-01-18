@@ -1,3 +1,3 @@
 # Traffic-monitor
-Monitor and guide autonomous traffic across intersection using synchronization to avoid crash and deadlock. 
-Project for CSC369
+Monitor and guide autonomous traffic across intersection. 
+Allow limited number of cars to travel in any legal directions without deadlock, starvation and traffic jam.
